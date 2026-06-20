@@ -1,1 +1,0 @@
-# Satellite-Image-Classifier
