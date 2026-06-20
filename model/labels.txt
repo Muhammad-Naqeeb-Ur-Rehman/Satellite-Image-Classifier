@@ -1,0 +1,4 @@
+0 Forest
+1 Highway
+2 Industrial
+3 River
