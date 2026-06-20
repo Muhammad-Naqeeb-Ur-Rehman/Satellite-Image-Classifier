@@ -1,1 +1,4 @@
-
+__pycache__/
+tm_env/
+*.pyc
+*.h5
