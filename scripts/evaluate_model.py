@@ -105,12 +105,3 @@ plt.show()
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.pagesizes import A4
-
-# =========================
-# PDF setup
-# =========================
-pdf = SimpleDocTemplate("Satellite_Image_Classification_Report.pdf", pagesize=A4)
-
-styles = getSampleStyleSheet()
-content = []
-
