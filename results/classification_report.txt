@@ -1,1 +1,2 @@
-
+Total Images 10500
+Accuracy 85.47%
